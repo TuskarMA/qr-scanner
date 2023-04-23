@@ -102,3 +102,4 @@ export default () => [
         ],
     }))),
 ];
+console.log("писюн")
